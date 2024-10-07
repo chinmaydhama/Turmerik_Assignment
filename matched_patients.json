@@ -1,5 +1,19 @@
 [
     {
+        "patientId": "b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT04621201",
+                "trialName": "Genomic Profiles Analysis in Children, Adolescents and Young Adult With Sarcomas",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            }
+        ]
+    },
+    {
         "patientId": "c1f1fcaa-82fd-d5b7-3544-c8f9708b06a8",
         "eligibleTrials": [
             {
@@ -23,6 +37,1262 @@
             {
                 "trialId": "NCT05644665",
                 "trialName": "A Study to Evaluate Efficacy and Long-term Safety of Oral Ozanimod in Chinese Participants With Moderately to Severely Active Ulcerative Colitis (UC)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06527573",
+                "trialName": "Effects of rTMS With Different Stimulation Spots in Patients With Disorders of Consciousness",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05219331",
+                "trialName": "Hydrocephalus Treatment on Persistent Disorder of Consciousness",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05682066",
+                "trialName": "TVMR With the Innovalve System Trial - Pilot in Georgia",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05344326",
+                "trialName": "Cognitive Analytic-Informed Guided Self-help for Depression",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05933720",
+                "trialName": "Efficacy and Safety of the Regulatory Polypeptides in Patients With Peripheral Atherosclerosis.",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04897282",
+                "trialName": "Prospective Multicenter Trial to Determine the Efficacy and Outcome of the UCRI Biomarker Panel and Algorithm to Detect Mucosal Healing in Moderate to Severe Ulcerative Colitis Patients.",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06093282",
+                "trialName": "Activity and Recreation in Communities for Health",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06040320",
+                "trialName": "Polatuzumab Vedotin (Pola) Plus Rituximab (R) in Patients With Post-transplant Lymphoproliferative Disorder (PTLD)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05278260",
+                "trialName": "Hydrogen-rich Water and Treatment of Mucositis Caused by Radiation Therapy in Head and Neck Cancer Patients",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05934994",
+                "trialName": "Contribution of MUltiparametric Analysis in Bone Scintigraphy for the Characterisation of Solitary Bone Lesions",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06154694",
+                "trialName": "Glenohumeral Joint Contract Patterns in Osteoarthritic Glenoids",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06325462",
+                "trialName": "The Influence of Anesthetic Technique on Cerebral Oxygenation During Spinal Surgery",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06430762",
+                "trialName": "Therapeutic Exposures and Risk Factors in MRONJ",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03838991",
+                "trialName": "Epigenetic Regulation in Fibrous Dysplasia of Bone: mirDYS Study.",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04919980",
+                "trialName": "TVMR With the Innovalve System Trial - Early Feasibility Study",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05814380",
+                "trialName": "The Regional Scintigraphic DPD Uptake in Cardiac Transthyretin Amyloidosis.",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05876494",
+                "trialName": "Serum Lactate and Ulcerative Colitis",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03276676",
+                "trialName": "[18F]Fluciclovine and [18F]FLT PET/CT Assessment of Primary High-Grade Brain Tumors",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05792280",
+                "trialName": "Clinical Research on a Novel Deep-learning Based System in Mediastinal Endoscopic Ultrasound Scanning",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT02919280",
+                "trialName": "Dallas 2K: A Natural History Study of Depression",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05211401",
+                "trialName": "Rituximab in Patients With ST-elevation Myocardial Infarction",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06112301",
+                "trialName": "Pivotal, Clinical Study for the Accuracy Evaluation of the IdentiClone Dx IGH Assay",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06156501",
+                "trialName": "Psychological Factors Influencing the Patient-reported and Functional Outcome of ACL Reconstruction and Their Sex-specific Differences",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05786040",
+                "trialName": "Tafasitamab and Rituximab for Front-Line Treatment of Post-Transplant Lymphoproliferative Disorder",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03430973",
+                "trialName": "Aggressive Driving and Road Rage: A Driving Simulation Experiment.",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06177327",
+                "trialName": "Hepato-pancreato-biliary Abnormalities in Fibrous Dysplasia of Bone/McCune Albright Syndrome",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05471973",
+                "trialName": "CIED Infection Quality Initiative Demonstration Project",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04432220",
+                "trialName": "AnticoaguLation ONE Year After Ablation of Atrial Fibrillation in Patients With Atrial Fibrillation (ALONE AF Study)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04700774",
+                "trialName": "Behavioral Activation for Depression: A Randomized Controlled Trial",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05669274",
+                "trialName": "Comparing the Adaptation of Commercial Milk and A2 Milk in Lactose Maldigesters",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03101982",
+                "trialName": "Hyperbaric Oxygenation (HBO) in Traumatic Spinal Cord Injury. (EOS) - Pilot Study",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06259526",
+                "trialName": "A Study of the Effectiveness and Safety of JS1-1-01 in Patients With Moderate to Severe Depression",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05791526",
+                "trialName": "An Observational Study to Assess Change in Disease Activity and Adverse Events of Rinvoq in Adult Participants With Moderate to Severe Ulcerative Colitis (UC) in Japan",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT02797457",
+                "trialName": "Medical Economic Evaluation of Bilateral Allograft of Hands and Forearms",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06161025",
+                "trialName": "A Study of Raludotatug Deruxtecan (R-DXd) in Subjects With Platinum-resistant, High-grade Ovarian, Primary Peritoneal, or Fallopian Tube Cancer",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04243525",
+                "trialName": "Inflammatory Bowel Disease (IBD) Research Registry",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06360757",
+                "trialName": "Clinical Evaluation of the NeuMoDx SARS-CoV-2 Assay (COVID-19)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06199648",
+                "trialName": "Digital Solutions for Elderly Care by Informal Caregivers",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06503848",
+                "trialName": "Migraine Attack Treatment Response Molecular and Clinical BiOmarkers (MAMBO) Phase I",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT01420991",
+                "trialName": "Brain and Abdominal Aneurysm Study",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04133194",
+                "trialName": "Adherence of a 1.600 mg Single Tablet 5-ASA Treatment of Ulcerative Colitis",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05471726",
+                "trialName": "Improving Post-discharge Antimicrobial Use",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06159257",
+                "trialName": "Evaluation of the Physiological Stability Variability and Robustness of NIS4",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06174376",
+                "trialName": "Clinical Outcomes of the Gore Synthetic Cornea Device",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06211127",
+                "trialName": "Safety and Efficacy of Cold Laser Plaque Ablation for Lower Limb Arterial Stenosis and Occlusive Lesions",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05924763",
+                "trialName": "The Clinical Outcome of BiCRI in the Treatment of Chondral and Osteochondral Lesions",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03143374",
+                "trialName": "PET Tau - Neurodegenerative Disease Imaging",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05586022",
+                "trialName": "Risk Factors for Adverse Outcomes of Endovascular Revascularization in Lower Extremity Arteriosclerosis Occlusion",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05718635",
+                "trialName": "Perforator Mapping and Optimizing Design of the Lateral Arm Flap",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05467072",
+                "trialName": "PMCFU of an Annular Closure System",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06241872",
+                "trialName": "Evaluation of the Effectiveness of Dry Needling Treatment in Patients Diagnosed With Greater Trochanteric Pain Syndrome",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03228472",
+                "trialName": "Noninvasive Brain Stimulation Training",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04792892",
+                "trialName": "ANCA II - Quality of Life and Functional Outcome in Patients With Anal Cancer",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06307392",
+                "trialName": "Bougie Versus Endotracheal Tube Alone on First-attempt Intubation Success in Prehospital Emergency Intubation (BETA Trial)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06449092",
+                "trialName": "The Significance of Remnant Cholesterol and Carotid Intima Media Thickness in Patients With MAFLD",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04682392",
+                "trialName": "ACL Bone Health and Loading Study",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05630092",
+                "trialName": "Comparing 6-Minute Walk Tests for Ambulatory Oxygen Assessment",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04733404",
+                "trialName": "Safety and Effectiveness Study of Dragonfly System for Functional Mitral Regurgitation",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05891704",
+                "trialName": "The Efficacy of Hand Injuries Rehabilitation Intervention Program That Incorporated Ethnic and Cultural Reference",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06222372",
+                "trialName": "Novel Interventions and Diagnostic Tests for Leprosy",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03983369",
+                "trialName": "Low-level Laser Therapy in the Prevention of Chemotherapy-induced Mucositis in Children and Young Adults",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05153889",
+                "trialName": "Low Risk Non ST Elevation Myocardial Infarction With or Without Intensive Care Unit Admission",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05235789",
+                "trialName": "Cognitive Behavioral Therapy (REBT) Evaluation for Depression at Primary Care.",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06037889",
+                "trialName": "Efficacy and Safety of Tirofiban for Patients With BAD (BRANT)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT02089789",
+                "trialName": "Clinical and Basic Investigations Into Known and Suspected Congenital Disorders of Glycosylation",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05967689",
+                "trialName": "A Study of Zipalertinib in Patients With Advanced Non-Small Cell Lung Cancer With Epidermal Growth Factor Receptor (EGFR) Exon 20 Insertions or Other Uncommon Mutation.",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04404972",
+                "trialName": "Incidence of Complications of Brain Death",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04119804",
+                "trialName": "Early Discrimination of Periprosthetic Hip Infections Using Neural Networks (SEPTIC-ANNR)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05976672",
+                "trialName": "Machine Learning Technology in Predicting Relapse and Implementing Peer Recovery Intervention Before Drug Use Occurs",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05923892",
+                "trialName": "Phase II Clinical Trial of OPS-2071 in the Treatment of Irritable Bowel Syndrome of Diarrhea Type",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03717792",
+                "trialName": "Vascular Liver Disease Evaluation, Follow Up and Non-Invasive Diagnostics Program",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06260267",
+                "trialName": "A Phase 1b Proof-of-concept Trial Exploring the Effects of FE 999322 and FE 999324 in Adults with Mild to Moderate Ulcerative Colitis",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03221140",
+                "trialName": "Outpatient Parenteral Antimicrobial Therapy (OPAT)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04883840",
+                "trialName": "Drug Repurposing - Statins as Microbiota Modulating Agents in Ulcerative Colitis",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06244238",
+                "trialName": "A Study on the Relationship Between Job Satisfaction and Retention Intentions of Emergency Room Nurses",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05825872",
+                "trialName": "Ultrasound-Guided Internal Superior Laryngeal Nerve Block for Double-Lumen Bronchial Tube",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05691595",
+                "trialName": "Attitudes, Knowledge, Self-efficacy, and Behaviors of Nurses in Nutritional Care for Older People",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            }
+        ]
+    },
+    {
+        "patientId": "339144f8-50e1-633e-a013-f361391c4cff",
+        "eligibleTrials": []
+    },
+    {
+        "patientId": "d488232e-bf14-4bed-08c0-a82f34b6a197",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT05333627",
+                "trialName": "Internet-delivered Cognitive Behaviour Therapy for Post-Secondary Students: Preference Trial for Various Course Durations",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04212520",
+                "trialName": "Predictive Value of Non-fasting Blood Lipid Levels for Cardiovascular Events in Community Population(PICC Study)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06093282",
+                "trialName": "Activity and Recreation in Communities for Health",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06031766",
+                "trialName": "Comparison of CIPA With the GLIM Criteria and Prevalence of Sarcopenia in Inpatients",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06591676",
+                "trialName": "Translation and Cultural Adaptation of the Dysfunctional Attitude Scale (DAS) Into Urdu",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06336980",
+                "trialName": "Creating Welcoming Faith Communities for People With Serious Mental Illnesses",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03795376",
+                "trialName": "Dat'Aids Prevention",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT02919280",
+                "trialName": "Dallas 2K: A Natural History Study of Depression",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04700774",
+                "trialName": "Behavioral Activation for Depression: A Randomized Controlled Trial",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT02974582",
+                "trialName": "Understanding How Cigarette Direct Mail Marketing Influences Smoking Behaviors Among High and Low Socioeconomic Status Young Adult Smokers",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06259526",
+                "trialName": "A Study of the Effectiveness and Safety of JS1-1-01 in Patients With Moderate to Severe Depression",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06557525",
+                "trialName": "Focused Research On Neurofeedback Therapy In Eradicating Depression (FRONTIER)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06444048",
+                "trialName": "Phase 1, Randomized, Double-Blind, Placebo-controlled Study to Evaluate the Safety and Tolerability of an Enterovirus D68-specific Monoclonal Antibody in Healthy Adults",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05816226",
+                "trialName": "Topical Treatment for TMJ Arthralgia",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06159257",
+                "trialName": "Evaluation of the Physiological Stability Variability and Robustness of NIS4",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05377463",
+                "trialName": "Optimizing a Bio-behavioral Intervention for Sustained Viral Suppression",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05555940",
+                "trialName": "Effect of Individualized Precise TMS on Emotional Blunting in Depression and Its Brain Imaging Mechanism",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05184569",
+                "trialName": "Veri-T: A Trial of Verdiperstat in Patients With svPPA Due to TDP-43 Pathology",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05235789",
+                "trialName": "Cognitive Behavioral Therapy (REBT) Evaluation for Depression at Primary Care.",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06556589",
+                "trialName": "Collaborative Care for Treatment of Depression and Anxiety",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            }
+        ]
+    },
+    {
+        "patientId": "217f95a3-4e10-bd5d-fb67-0cfb5e8ba075",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT05357144",
+                "trialName": "AmbassADDOrs for Health Study",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04600973",
+                "trialName": "Improving Implementation of Evidence-based Approaches and Surveillance to Prevent Bacterial Transmission and Infection",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06269666",
+                "trialName": "P200TxE Diseased Eye Image Collection",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06520865",
+                "trialName": "TIDE Project: Biomarker Discovery for Chronic Tinnitus Diagnosis",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06093282",
+                "trialName": "Activity and Recreation in Communities for Health",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05873894",
+                "trialName": "Acute Pain Oscillation in Electroencephalographic Monitoring Under General Anaesthesia",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03208062",
+                "trialName": "Banca di Materiale Biologico Per lo Studio di Patologie Che Interessano l'Apparato Muscolo-scheletrico",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04986891",
+                "trialName": "Chemotherapy Induced Peripheral Neurotoxicity (CIPN): Why Should we Care",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05598580",
+                "trialName": "Immunomodulators on HIV-1 Reservoir",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05883462",
+                "trialName": "Paclitaxel-Coated Nasal Balloon for the Treatment of Recurrent Chronic Rhinosinusitis With or Without Nasal Polyps (FIH)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04864080",
+                "trialName": "Transdiagnostic Cognitive Biomarkers",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05905640",
+                "trialName": "One-stop PrEP Care Pathway to Simplify PrEP Delivery in Kenya: The One-Stop PrEP Care Project",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04908501",
+                "trialName": "Health Care Appropriateness Assessment and Support Programme at a University Hospital Centre (CHU) in Bordeaux",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06061055",
+                "trialName": "Comparison of VentiBroncTM Anchor With Conventional Double-lumen Endobronchial Tube in Patients With High Risk of Malposition",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04192773",
+                "trialName": "An fMRI Investigation of the Effects of IV Lidocaine on Tinnitus",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05471973",
+                "trialName": "CIED Infection Quality Initiative Demonstration Project",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04700774",
+                "trialName": "Behavioral Activation for Depression: A Randomized Controlled Trial",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05666882",
+                "trialName": "Effect on the HIV Diagnosis Rates of Integration of AIDS Indicator Conditions Into the Hospital Information Systems",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06378320",
+                "trialName": "eHealth for Breastfeeding Support - the HOTSPOT Trial",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05770765",
+                "trialName": "Creation of a Bank of Biological Materials and Associated Data Related to Patients With Infectious and Tropical Diseases",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04513626",
+                "trialName": "HIV-1 Infected Patients, Phase II Trial, Dual Combination Doravirine/Raltegravir Open Label",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06259526",
+                "trialName": "A Study of the Effectiveness and Safety of JS1-1-01 in Patients With Moderate to Severe Depression",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05943548",
+                "trialName": "Omuyambi: Traditional Healer Support to Improve HIV Viral Suppression in Rural Uganda",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05471726",
+                "trialName": "Improving Post-discharge Antimicrobial Use",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06112626",
+                "trialName": "Chlorhexidine Gluconate Bathing Education Video Among Hospitalized Patients",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04667026",
+                "trialName": "Observational Study on Patients With HIV/AIDS(OSPWH)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06159257",
+                "trialName": "Evaluation of the Physiological Stability Variability and Robustness of NIS4",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06420739",
+                "trialName": "The Semaglutide Study",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05927272",
+                "trialName": "Deciphering the Vitiligo Transcriptomic Signature Between Repigmented and Non Repigmented Lesions",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05864872",
+                "trialName": "the Best Approach for Blocking Intercostobrachial and Medial Brachial Cutaneous Nerves in the Upper Arm Surgery",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05947968",
+                "trialName": "Scapular PNF Versus Shoulder Strengthening Exercises in Patients With Lateral Epicondylitis.",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05651646",
+                "trialName": "STIMFIX Trail Lead Anchor System for Dorsal Column Stimulator Trail Leads (SECURE Study)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06394167",
+                "trialName": "A Phase 1 Dose Escalation Study of Intravenous VX-993 in Healthy Adults",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06269068",
+                "trialName": "Investigation of the Relationship Between Central Sensitization and Neuropathic Pain in Lumbar Disc Herniation",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05235789",
+                "trialName": "Cognitive Behavioral Therapy (REBT) Evaluation for Depression at Primary Care.",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT04301492",
+                "trialName": "Tolerability, Safety and Efficacy of Vortioxetine",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05873101",
+                "trialName": "Comparison Of Effectiveness of Mobilization With Movement (MWM) and Kelternborn Treatment Technique to Increase ROM, Reducing Pain in Patient of ACL Reconstruction",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT03221140",
+                "trialName": "Outpatient Parenteral Antimicrobial Therapy (OPAT)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05691595",
+                "trialName": "Attitudes, Knowledge, Self-efficacy, and Behaviors of Nurses in Nutritional Care for Older People",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT06523595",
+                "trialName": "Evaluation of the Pharmacokinetic Drug-drug Interactions Between VX-993 and Metformin in Healthy Adults",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05949814",
+                "trialName": "Acceptability of a PrEP Program Among MSM and Transgender (TG) and Having Accepted a Targeted Screening for HIV, Hepatitis B (VHB), Hepatitis C (VHC) and STIs.",
                 "eligibilityCriteriaMet": [
                     "Age match",
                     "Gender match",
