@@ -1,0 +1,34 @@
+[
+    {
+        "patientId": "c1f1fcaa-82fd-d5b7-3544-c8f9708b06a8",
+        "eligibleTrials": [
+            {
+                "trialId": "NCT06414291",
+                "trialName": "Rehydration Efficiency During Ad-libitum Fluid Intake",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05640544",
+                "trialName": "Gamma Entrainment Improve the Recovery of Awareness",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            },
+            {
+                "trialId": "NCT05644665",
+                "trialName": "A Study to Evaluate Efficacy and Long-term Safety of Oral Ozanimod in Chinese Participants With Moderately to Severely Active Ulcerative Colitis (UC)",
+                "eligibilityCriteriaMet": [
+                    "Age match",
+                    "Gender match",
+                    "Condition match"
+                ]
+            }
+        ]
+    }
+]
